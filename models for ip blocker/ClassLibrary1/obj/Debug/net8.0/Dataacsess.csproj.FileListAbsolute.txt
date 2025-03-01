@@ -1,0 +1,11 @@
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\bin\Debug\net8.0\Dataacsess.deps.json
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\bin\Debug\net8.0\Dataacsess.dll
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\bin\Debug\net8.0\Dataacsess.pdb
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\Dataacsess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\Dataacsess.AssemblyInfoInputs.cache
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\Dataacsess.AssemblyInfo.cs
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\Dataacsess.csproj.CoreCompileInputs.cache
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\Dataacsess.dll
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\refint\Dataacsess.dll
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\Dataacsess.pdb
+C:\Users\muhamed saber\source\repos\models for ip blocker\ClassLibrary1\obj\Debug\net8.0\ref\Dataacsess.dll

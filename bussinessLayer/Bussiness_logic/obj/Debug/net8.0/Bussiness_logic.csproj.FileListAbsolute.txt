@@ -1,0 +1,15 @@
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussiness_logic.csproj.AssemblyReference.cache
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussiness_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussiness_logic.AssemblyInfoInputs.cache
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussiness_logic.AssemblyInfo.cs
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussiness_logic.csproj.CoreCompileInputs.cache
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\bin\Debug\net8.0\Bussiness_logic.deps.json
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\bin\Debug\net8.0\Bussiness_logic.dll
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\bin\Debug\net8.0\Bussiness_logic.pdb
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\bin\Debug\net8.0\Dataacsess.dll
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\bin\Debug\net8.0\Dataacsess.pdb
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussines.D26239C9.Up2Date
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussiness_logic.dll
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\refint\Bussiness_logic.dll
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\Bussiness_logic.pdb
+C:\Users\muhamed saber\source\repos\bussinessLayer\Bussiness_logic\obj\Debug\net8.0\ref\Bussiness_logic.dll
